@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VeroZaki
+- 👋 Hi, I’m Veronia Osama
 - 👀 I’m interested in Machine Learning/ Deep Learning field also in Tsting and trying to catch bugs :beetle: .
 - 🌱 I’m currently learning Machine learning and Deep learning.
 - 💞️ I’m looking to collaborate on big real-life projects.
