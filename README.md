@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Veronia Osama
-- 👀 I’m interested in Machine Learning/ Deep Learning field also in Testing and trying to catch bugs :beetle: .
-- 🌱 I’m currently learning Machine learning and Deep learning.
-- 💞️ I’m looking to collaborate on big real-life projects.
+- 👀 I’m interested in Machine Learning/ Deep Learning field also in Back-End and Testing trying to catch bugs :beetle: .
+- 🌱 I’m currently working as a Back-End Engineer.
+- 💞️ I am working on delivering ideas to production.
 - 📫 You can reach me through my LinkedIn account [Veronia Osama](#https://www.linkedin.com/in/veronia-osama-15733b160/)
 
 <!---
