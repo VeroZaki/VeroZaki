@@ -22,32 +22,15 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="Icons/ruby-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="Icons/rails-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,nodejs,ruby,rails,redis,docker,gcp,git,github,gitlab,kubernetes,linux" />
-  </a>
-</p>
-### 🧠 Languages and Tools :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,nodejs,ruby,rails,redis,docker,gcp,git,github,gitlab,kubernetes,linux,mysql,mongodb,postgres" />
   </a>
 </p>
 
 ### 🧠 Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   </a>
 </p>
