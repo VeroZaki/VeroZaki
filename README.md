@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="veronia.osama20@gmail.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Twitter Badge"/>
   </a>
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=VeroZaki&style=flat-square&color=blue" alt=""/>
