@@ -38,6 +38,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,py,js,nodejs" />
+  </a>
+</p>
 ### 🧠 Languages and Tools :
 <div>
   <img src="Icons/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -51,9 +56,3 @@ You can click the Preview link to take a look at your changes.
   <img src="Icons/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="Icons/pytorch-original-wordmark.svg" title="PyTourch"  alt="PyTourch" width="40" height="40"/>&nbsp;
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
