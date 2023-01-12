@@ -9,7 +9,7 @@ VeroZaki/VeroZaki is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div id="badges" style="text-align: center;">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/veronia-osama-15733b160/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,6 +17,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
-<div id="views">
+<div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=VeroZaki&style=flat-square&color=blue" alt=""/>
 </div>
