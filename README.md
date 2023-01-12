@@ -51,3 +51,9 @@ You can click the Preview link to take a look at your changes.
   <img src="Icons/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="Icons/pytorch-original-wordmark.svg" title="PyTourch"  alt="PyTourch" width="40" height="40"/>&nbsp;
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
