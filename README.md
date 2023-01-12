@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <a href="veronia.osama20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-  <a href="">
-    <img src="https://komarev.com/ghpvc/?username=VeroZaki&style=flat-square&color=blue" alt=""/>
-  </a>
+</div>
+<div>
+      <img src="https://komarev.com/ghpvc/?username=VeroZaki&style=flat-square&color=blue" alt=""/>
 </div>
