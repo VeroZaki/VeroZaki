@@ -23,15 +23,16 @@ You can click the Preview link to take a look at your changes.
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,nodejs,ruby,rails,redis,docker,gcp,git,github,gitlab,kubernetes,linux,mysql,mongodb,postgres" />
   </a>
 </p>
 
 ### 🧠 Languages and Tools :
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+    <img src="Icons/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="60" height="60"/> 
   </a>
 </p>
 
