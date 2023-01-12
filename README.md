@@ -23,11 +23,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="Icons/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="Icons/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="Icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="Icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="Icons/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="Icons/ruby-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="Icons/rails-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -40,19 +35,19 @@ You can click the Preview link to take a look at your changes.
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,nodejs,ruby,rails,redis,docker,gcp,git,github,gitlab,kubernetes,linux" />
   </a>
 </p>
 ### 🧠 Languages and Tools :
-<div>
-  <img src="Icons/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="Icons/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="Icons/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  </a>
+</p>
 
 ### 🧠 Languages and Tools :
-<div>
-  <img src="Icons/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="Icons/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="Icons/pytorch-original-wordmark.svg" title="PyTourch"  alt="PyTourch" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres" />
+  </a>
+</p>
