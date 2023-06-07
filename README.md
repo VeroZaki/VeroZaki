@@ -34,3 +34,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeroZaki&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VeroZaki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Veronia_Osama?theme=dark)
