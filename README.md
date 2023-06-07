@@ -24,7 +24,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,nodejs,ruby,rails,redis,docker,gcp,git,github,gitlab,kubernetes,linux,mysql,mongodb,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,nodejs,express,ruby,rails,redis,docker,gcp,git,github,gitlab,kubernetes,linux,mysql,mongodb,postgres,postman" />
   </a>
 </p>
 
