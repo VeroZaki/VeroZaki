@@ -2,10 +2,9 @@
 - 👀 I’m interested in Machine Learning/ Deep Learning field also in Back-End and Testing trying to catch bugs 🐞
 - 🌱 I’m currently working as a Back-End Engineer.
 - 💞️ I am working on delivering ideas to production.
-- 📫 You can reach me through:
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="left">You can reach me through:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/veronia-osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronia-osama" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Veronia_Osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Veronia_Osama" height="30" width="40" /></a>
 </p>
